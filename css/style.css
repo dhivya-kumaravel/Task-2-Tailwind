@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap');
+.righteous-regular {
+  @apply  
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .saira-condensed-thin {
+    @apply font-family: "Saira Condensed", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+
+    .rowdies-light {
+      @apply font-family: "Rowdies", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+  
